@@ -5,4 +5,5 @@ data class BookModel(
     val author: String? = null,
     val date: String? = null,
     val image: String? = null,
+    val category: String? = null,
 )
